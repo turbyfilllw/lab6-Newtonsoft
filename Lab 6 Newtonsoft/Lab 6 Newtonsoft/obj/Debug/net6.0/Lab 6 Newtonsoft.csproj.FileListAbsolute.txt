@@ -1,0 +1,17 @@
+/Users/logan/Projects/Lab 6 Newtonsoft/Lab 6 Newtonsoft/bin/Debug/net6.0/Lab 6 Newtonsoft
+/Users/logan/Projects/Lab 6 Newtonsoft/Lab 6 Newtonsoft/bin/Debug/net6.0/Lab 6 Newtonsoft.deps.json
+/Users/logan/Projects/Lab 6 Newtonsoft/Lab 6 Newtonsoft/bin/Debug/net6.0/Lab 6 Newtonsoft.runtimeconfig.json
+/Users/logan/Projects/Lab 6 Newtonsoft/Lab 6 Newtonsoft/bin/Debug/net6.0/Lab 6 Newtonsoft.dll
+/Users/logan/Projects/Lab 6 Newtonsoft/Lab 6 Newtonsoft/bin/Debug/net6.0/Lab 6 Newtonsoft.pdb
+/Users/logan/Projects/Lab 6 Newtonsoft/Lab 6 Newtonsoft/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/logan/Projects/Lab 6 Newtonsoft/Lab 6 Newtonsoft/obj/Debug/net6.0/Lab 6 Newtonsoft.csproj.AssemblyReference.cache
+/Users/logan/Projects/Lab 6 Newtonsoft/Lab 6 Newtonsoft/obj/Debug/net6.0/Lab 6 Newtonsoft.GeneratedMSBuildEditorConfig.editorconfig
+/Users/logan/Projects/Lab 6 Newtonsoft/Lab 6 Newtonsoft/obj/Debug/net6.0/Lab 6 Newtonsoft.AssemblyInfoInputs.cache
+/Users/logan/Projects/Lab 6 Newtonsoft/Lab 6 Newtonsoft/obj/Debug/net6.0/Lab 6 Newtonsoft.AssemblyInfo.cs
+/Users/logan/Projects/Lab 6 Newtonsoft/Lab 6 Newtonsoft/obj/Debug/net6.0/Lab 6 Newtonsoft.csproj.CoreCompileInputs.cache
+/Users/logan/Projects/Lab 6 Newtonsoft/Lab 6 Newtonsoft/obj/Debug/net6.0/Lab 6 Newtonsoft.csproj.CopyComplete
+/Users/logan/Projects/Lab 6 Newtonsoft/Lab 6 Newtonsoft/obj/Debug/net6.0/Lab 6 Newtonsoft.dll
+/Users/logan/Projects/Lab 6 Newtonsoft/Lab 6 Newtonsoft/obj/Debug/net6.0/refint/Lab 6 Newtonsoft.dll
+/Users/logan/Projects/Lab 6 Newtonsoft/Lab 6 Newtonsoft/obj/Debug/net6.0/Lab 6 Newtonsoft.pdb
+/Users/logan/Projects/Lab 6 Newtonsoft/Lab 6 Newtonsoft/obj/Debug/net6.0/Lab 6 Newtonsoft.genruntimeconfig.cache
+/Users/logan/Projects/Lab 6 Newtonsoft/Lab 6 Newtonsoft/obj/Debug/net6.0/ref/Lab 6 Newtonsoft.dll

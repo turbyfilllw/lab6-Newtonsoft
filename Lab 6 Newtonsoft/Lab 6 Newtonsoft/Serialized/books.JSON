@@ -1,0 +1,57 @@
+[
+  {
+    "Id": "ayJpGQeyxgkC",
+    "VolumeInfo": {
+      "Title": "To Kill a Mockingbird 40th",
+      "Authors": [
+        "Harper Lee"
+      ],
+      "Description": "<p> \"Shoot all the bluejays you want, if you can hit 'em, but remember it's a sin to kill a mockingbird.\" </p><p> A lawyer's advice to his children as he defends the real mockingbird of Harper Lee's classic novel--a black man charged with the rape of a white girl. Through the young eyes of Scout and Jem Finch, Harper Lee explores with rich humor and unswerving honesty the irrationality of adult attitudes toward race and class in the Deep South of the 1930s. The conscience of a town steeped in prejudice, violence, and hypocrisy is pricked by the stamina and quiet heroism of one man's struggle for justice--but the weight of history will only tolerate so much. </p><p> One of the best-loved classics of all time, To Kill a Mockingbird has earned many distinctions since its original publication in 1960. It has won the Pulitzer Prize, been translated into more than forty languages, sold more than thirty million copies worldwide, and been made into an enormously popular movie. Most recent, librarians across the country gave the book the highest of honors by voting it the best novel of the century (Library Journal).</p><p> HarperCollins is proud to celebrate the anniversary of the book's publication with this special hardcover edition.</p>"
+    },
+    "SelfLink": "https://www.googleapis.com/books/v1/volumes/ayJpGQeyxgkC"
+  },
+  {
+    "Id": "3YUrtAEACAAJ",
+    "VolumeInfo": {
+      "Title": "Harry Potter and the Sorcerer's Stone",
+      "Authors": [
+        "J. K. Rowling"
+      ],
+      "Description": "<b>A special new edition in celebration of the 20th anniversary of the publication of <i>Harry Potter and the Sorcerer's Stone</i>, with a stunning new cover illustration by Caldecott Medalist Brian Selznick. </b><br><br> Harry Potter has never been the star of a Quidditch team, scoring points while riding a broom far above the ground. He knows no spells, has never helped to hatch a dragon, and has never worn a cloak of invisibility.<br><br> All he knows is a miserable life with the Dursleys, his horrible aunt and uncle, and their abominable son, Dudley - a great big swollen spoiled bully. Harry's room is a tiny closet at the foot of the stairs, and he hasn't had a birthday party in eleven years.<br><br> But all that is about to change when a mysterious letter arrives by owl messenger: a letter with an invitation to an incredible place that Harry - and anyone who reads about him - will find unforgettable.<br><br> For it's there that he finds not only friends, aerial sports, and magic in everything from classes to meals, but a great destiny that's been waiting for him... if Harry can survive the encounter.<br><br> This gorgeous new edition in celebration of the 20th anniversary of the publication of <i>Harry Potter and the Sorcerer's Stone</i> features a newly designed cover illustrated by Caldecott Medalist Brian Selznick, as well as the beloved original interior decorations by Mary GrandPr ."
+    },
+    "SelfLink": "https://www.googleapis.com/books/v1/volumes/3YUrtAEACAAJ"
+  },
+  {
+    "Id": "llmymwEACAAJ",
+    "VolumeInfo": {
+      "Title": "The Hunger Games",
+      "Authors": [
+        "Suzanne Collins"
+      ],
+      "Description": "First in the ground-breaking HUNGER GAMES trilogy. Set in a dark vision of the near future, a terrifying reality TV show is taking place. Twelve boys and twelve girls are forced to appear in a live event called The Hunger Games. There is only one rule: kill or be killed. When sixteen-year-old Katniss Everdeen steps forward to take her younger sister's place in the games, she sees it as a death sentence. But Katniss has been close to death before. For her, survival is second nature."
+    },
+    "SelfLink": "https://www.googleapis.com/books/v1/volumes/llmymwEACAAJ"
+  },
+  {
+    "Id": "Wbm1mQEACAAJ",
+    "VolumeInfo": {
+      "Title": "The Hobbit, Or, There and Back Again",
+      "Authors": [
+        "John Ronald Reuel Tolkien"
+      ],
+      "Description": "<p>Give this beautiful gift edition of J.R.R. Tolkien's enchanting tale, The Hobbit, fully illustrated by artist Jemima Catlin. </p><p>In The Hobbit, Bilbo Baggins enjoys a comfortable, unambitious life, rarely traveling farther than the pantry of his hobbit-hole in Bag End. But his contentment is disturbed when the wizard Gandalf and a company of thirteen dwarves arrive on his doorstep to whisk him away on a journey to raid the treasure hoard of Smaug the Magnificent, a large and very dangerous dragon....</p><p>\"A glorious account of a magnificent adventure, filled with suspense and seasoned with a quiet humor that is irresistible... All those, young or old, who love a fine adventurous tale, beautifully told, will take The Hobbit to their hearts.\"--The New York Times Book Review</p>"
+    },
+    "SelfLink": "https://www.googleapis.com/books/v1/volumes/Wbm1mQEACAAJ"
+  },
+  {
+    "Id": "aWZzLPhY4o0C",
+    "VolumeInfo": {
+      "Title": "The Fellowship Of The Ring",
+      "Authors": [
+        "J.R.R. Tolkien"
+      ],
+      "Description": "<p>Begin your journey into Middle-earth...</p><p>The inspiration for the upcoming original series on Prime Video, The Lord of the Rings: The Rings of Power.</p><p>The Fellowship of the Ring is the first part of J.R.R. Tolkien’s epic adventure The Lord of the Rings.</p><p>One Ring to rule them all, One Ring to find them, One Ring to bring them all and in the darkness bind them.</p><p>Sauron, the Dark Lord, has gathered to him all the Rings of Power—the means by which he intends to rule Middle-earth. All he lacks in his plans for dominion is the One Ring—the ring that rules them all—which has fallen into the hands of the hobbit, Bilbo Baggins.</p><p>In a sleepy village in the Shire, young Frodo Baggins finds himself faced with an immense task, as his elderly cousin Bilbo entrusts the Ring to his care. Frodo must leave his home and make a perilous journey across Middle-earth to the Cracks of Doom, there to destroy the Ring and foil the Dark Lord in his evil purpose.</p>"
+    },
+    "SelfLink": "https://www.googleapis.com/books/v1/volumes/aWZzLPhY4o0C"
+  }
+]

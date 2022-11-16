@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5O93BycMwtYx7AXjaRJyXDNaOb9UU+A1ZmeuawduEoCBh7c5R4PhJaUP122Fj88mkTYGCXmslh3Q3TykPJ5/Qw==",
+  "success": true,
+  "projectFilePath": "/Users/logan/Projects/Lab 6 Newtonsoft/Lab 6 Newtonsoft/Lab 6 Newtonsoft.csproj",
+  "expectedPackageFiles": [
+    "/Users/logan/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
